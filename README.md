@@ -8,6 +8,8 @@
 		<th>Expert</th>
 		<th>Proficient</th>
 		<th>Competent</th>
+		<th>Beginner</th>
+		<th>Novice</th>
 	</tr> <tr>
 		<td align="center" style="padding-left: 18px; padding-right: 18px">
 			<img src="https://skillicons.dev/icons?i=lua" />
@@ -18,12 +20,6 @@
 		<td align="center" style="padding-left: 18px; padding-right: 18px">
 			<img src="https://skillicons.dev/icons?i=js" />
 		</td>
-	</tr>
-</table> <table>
-	<tr>
-		<th>Beginner</th>
-		<th>Novice</th>
-	</tr> <tr>
 		<td align="center" style="padding-left: 18px; padding-right: 18px">
 			<img src="https://skillicons.dev/icons?i=mysql,sqlite,powershell" />
 		</td>
@@ -38,6 +34,8 @@
 	<tr>
 		<th>Expert</th>
 		<th>Proficient</th>
+		<th>Beginner</th>
+		<th>Novice</th>
 	</tr> <tr>
 		<td align="center" style="padding-left: 18px; padding-right: 18px">
 			<img src="https://skillicons.dev/icons?i=ableton,sublime,vscode" />
@@ -45,12 +43,6 @@
 		<td align="center" style="padding-left: 18px; padding-right: 18px">
 			<img src="https://skillicons.dev/icons?i=ps" />
 		</td>
-	</tr>
-</table> <table>
-	<tr>
-		<th>Beginner</th>
-		<th>Novice</th>
-	</tr> <tr>
 		<td align="center" style="padding-left: 18px; padding-right: 18px">
 			<img src="https://skillicons.dev/icons?i=blender" />
 		</td>
